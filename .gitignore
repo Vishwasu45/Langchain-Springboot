@@ -32,6 +32,11 @@ build/
 ### VS Code ###
 .vscode/
 
+### Spec Kit ###
+# Track spec-kit configuration and specs (these are part of the project)
+# !.specify/
+# !.cursor/commands/
+
 ### Mac ###
 .DS_Store
 
